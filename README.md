@@ -52,14 +52,15 @@ A story of suffering, resilience, and a 92% breakthrough on the final hour.
 ## 🚀 Active Projects
 
 **⚙️ PROJECT FORGE**
-An AI system designed for self-evolution and autonomous self-improvement.
-Architecture is being designed. Build begins soon.
-*Collaborating with a Global Huawei AI Competition winner (2023/2024).*
+I probably have a basic soln to an AI system that can probBLY self-evolution and autonomous self-improvement.
+Architecture is being designed. Build begins soon. This is an idea that i think haven't been done.
+
+*Am about to Collaborating with a Global Huawei AI Competition winner (2023/2024) on this idea.*
 
 **🤫 CLASSIFIED — Powered by Claude Code**
 Engineering something with Anthropic's Claude Code
 that nobody has attempted before.
-Android. Autonomous. Dangerous.
+Android. Autonomous.
 You'll see it when it's done.
 
 **📚 EduScribe**
@@ -68,10 +69,10 @@ faced by millions of students across developing nations.
 Currently in design phase.
 
 **🗺️ StreetPulse**
-A real-time intelligence system built to help
+Am also planning to build a real-time intelligence system built to help
 governments reduce crime and respond faster
 to critical incidents on the ground.
-Built for Africa first.
+Am soon starting on this and would be happy for any collaboration.
 
 ---
 
