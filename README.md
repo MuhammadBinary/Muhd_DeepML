@@ -49,28 +49,32 @@ A story of suffering, resilience, and a 92% breakthrough on the final hour.
 
 ---
 
-## 🚀 Upcoming Projects
+## 🚀 Active Projects
 
-<table>
-  <tr>
-    <td><b>⚙️ PROJECT FORGE</b></td>
-    <td>An AI system designed for self-evolution and autonomous self-improvement. Collaborating with a Global Huawei AI Competition winner.</td>
-  </tr>
-  <tr>
-    <td><b>🤫 CLASSIFIED</b></td>
-    <td>Powered by Claude Code. Android. Autonomous. Dangerous. You'll see it when it's done.</td>
-  </tr>
-  <tr>
-    <td><b>📚 EduScribe</b></td>
-    <td>An AI tool tackling a critical learning gap faced by millions of students across developing nations.</td>
-  </tr>
-  <tr>
-    <td><b>🗺️ StreetPulse</b></td>
-    <td>A real-time intelligence system to help governments reduce crime. Built for Africa first.</td>
-  </tr>
-</table>
+**⚙️ PROJECT FORGE**
+An AI system designed for self-evolution and autonomous self-improvement.
+Architecture is being designed. Build begins soon.
+*Collaborating with a Global Huawei AI Competition winner (2023/2024).*
+
+**🤫 CLASSIFIED — Powered by Claude Code**
+Engineering something with Anthropic's Claude Code
+that nobody has attempted before.
+Android. Autonomous. Dangerous.
+You'll see it when it's done.
+
+**📚 EduScribe**
+An AI tool tackling a critical learning gap
+faced by millions of students across developing nations.
+Currently in design phase.
+
+**🗺️ StreetPulse**
+A real-time intelligence system built to help
+governments reduce crime and respond faster
+to critical incidents on the ground.
+Built for Africa first.
 
 ---
+
 
 ## 📚 Currently Learning
 
