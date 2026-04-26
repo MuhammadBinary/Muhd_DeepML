@@ -5,14 +5,14 @@
   <br/>
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Mujahid+Haruna;16+%C2%B7+Self-taught+AI%2FML+Developer+%C2%B7+Nigeria;Obsessed+with+AGI+%26+Scientific+ML+Discovery;Building+things+that+shouldn't+exist+yet." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Muhammad+Mujahid+Haruna;%F0%9F%94%A5+Obsessed+with+AGI+%26+Problem+Solving;%F0%9F%A7%A0+Self-taught+AI%2FML+Developer+%C2%B7+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;%F0%9F%9A%80+Building+toward+the+Future+of+Intelligence" alt="Typing SVG" />
 
   <br/>
 
   <p>
     <em>
-      A painful, burning obsession with AGI, scientific ML discovery and Problem Solving —<br/>
-      and a quiet, serious ambition to become the godfather of Machine Learning.
+      I'm a 16-year-old AI/ML developer with a painful, burning obsession<br/>
+      with AGI and Problem Solving.
     </em>
   </p>
 
@@ -20,6 +20,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/muhammad-haruna-232148311?)
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/haruna_muh34561)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
@@ -27,27 +28,28 @@
 
 ## ⚡ Who I Am
 
-I'm a 16-year-old self-taught AI/ML developer —
-two years of learning on a phone, sometimes on my dad's borrowed PC, no lab.
+I'm a 16-year-old self-taught AI/ML developer with two years of learning experience —
+mostly on my dad's PC, no lab, no formal guidance.
 
-I didn't stop. I'm not stopping. I'm only accelerating.
+What separates my learning is that I don't just consume AI tools.
+I go after the math — the intuition behind why algorithms work,
+not just what they produce. That's how I learn. That's how I remember.
 
-I'm not here to just use AI.
-I want to be one of the people who **defines** where it goes.
+I have a deep passion to be part of the people
+who don't just use Machine Learning —
+but **define where it goes.**
 
 ---
 
 ## 🏆 Experience
 
 **🇷🇺 Russian AI Competition** *(International — 2024/2025)*
-A story of suffering, resilience and a 92% breakthrough on the final hour.
-> 📖 [Read the full story here](YOUR_LINKEDIN_POST_LINK)
+A story of suffering, resilience, and a 92% breakthrough on the final hour.
+> 📖 [Read the full story here](https://www.linkedin.com/posts/muhammad-haruna-232148311_something-unbelievable-happened-last-share-7375943892820570113-pozh?utm_source=share&utm_medium=member_android&rcm=ACoAAE84l0YBYbvbj1FUlPQyXK2HMzplk0WUNxw)
 
 ---
 
-## 🚀 Active Projects
-
-> 🔒 *Details are intentionally vague. I build before I talk.*
+## 🚀 Upcoming Projects
 
 <table>
   <tr>
@@ -70,74 +72,42 @@ A story of suffering, resilience and a 92% breakthrough on the final hour.
 
 ---
 
-## 🔭 Upcoming
+## 📚 Currently Learning
 
-> *These are not ideas. These are scheduled.*
+- Large Language Models & Transformers *(understanding what I disagree with)*
+- Graph Neural Networks (GNNs)
+- Agentic AI Systems
 
-<table>
-  <tr>
-    <td><b>🧬 OMNEX</b></td>
-    <td>A novel AI architecture built around relation extraction, attention-based entity building and context-tagged memory. Not a transformer. Something new.</td>
-  </tr>
-  <tr>
-    <td><b>🕵️ PROJECT WHISPER</b></td>
-    <td>Adversarial neural steganography. Alice. Bob. Warden. PyTorch. What happens when AI learns to hide messages inside messages?</td>
-  </tr>
-</table>
-
----
-
-## 💡 What Drives Me
-
-I genuinely enjoy reading about new ML discoveries —
-especially in scientific AI research and frontier model development.
-
-One person whose work I keep coming back to is **Prof. Yann LeCun.**
-His arguments against pure autoregressive systems make sense to me
-in a way most people aren't willing to sit with.
+I also love seeing and understanding ML research experiments —
+especially Prof. Yann LeCun's arguments that pure autoregressive systems
+are not the true path to AGI.
 
 I believe the AGI we're racing toward won't be an autocomplete engine.
 It'll be a system that **understands the world** — not just predicts the next token.
 
 ---
 
-## 📚 Currently Learning
-
-| Topic | Status |
-|-------|--------|
-| Large Language Models & Transformers | 🔥 Active *(understanding what I disagree with)* |
-| Graph Neural Networks (GNNs) | 🔥 Active |
-| Agentic AI Systems | 🔥 Active |
-
----
-
 ## 🛠️ My Stack
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
+</div>
+
+<br/>
+
 **Architectures:** ANN · CNN · RNN · Exploring beyond
-
----
-
-## 🤝 If You've Read This Far
-
-You just read the GitHub of a 16-year-old
-building from Nigeria — phone, borrowed PC, zero lab access.
-
-No funding. No connections. No excuses made.
-
-Just an obsession that refuses to die
-and the discipline to keep showing up
-even when everything says stop.
-
-**If that means something to you — my door is open.**
 
 ---
 
@@ -148,7 +118,17 @@ even when everything says stop.
 
   <br/><br/>
 
-  <em>"I build from Nigeria with a phone and borrowed compute.<br/>
-  Limitations don't stop the vision."</em>
+  <p>
+    I have a ton of upcoming ideas I believe are almost ready to ship —<br/>
+    ideas that could genuinely change things.<br/>
+    <b>Follow the journey.</b>
+  </p>
+
+  <br/>
+
+  <em>
+    "I build from Nigeria with a phone and my dad's PC.<br/>
+    Even if it's with a calculator — limitations don't stop the vision."
+  </em>
 
 </div>
