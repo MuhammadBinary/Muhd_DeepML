@@ -42,7 +42,7 @@ or job oppotunity.
 
 ## 🏆 Experience
 
-**🇷🇺 Russian AI Competition** *(International — 2024/2025)*
+**🇷🇺 Russian AI Competition** *(International - 2024/2025)*
 A story of suffering, resilience, and a 92% breakthrough on the final hour.
 > 📖 [Read the full story here](https://www.linkedin.com/posts/muhammad-haruna-232148311_something-unbelievable-happened-last-share-7375943892820570113-pozh?utm_source=share&utm_medium=member_android&rcm=ACoAAE84l0YBYbvbj1FUlPQyXK2HMzplk0WUNxw)
 
