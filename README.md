@@ -29,7 +29,7 @@
 ## ⚡ Who I Am
 
 I'm a self-taught AI/ML developer with two to three years of learning experience, but started long before that, due to the limitation that i work
-mostly on my phone(2GB of RAM) and sometimes my Dad's PC, with almost no formal guidance.
+mostly on my phone and sometimes my Dad's PC, with almost no formal guidance.
 
 I love understanding how Machine Learning works and most importantly how Deep learning algorithms work, especially in the field of Large language models 🧠 but still a very beginner in it, but i believe with my IDEAs and burning Obsession, furthering my knowledge indepth with opportunity like compute, guidance from team of AI expert, becoming a very good ML scientist 👨‍💻 isn't a hard journey especially that i have experience in it.
 ...
