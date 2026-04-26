@@ -62,12 +62,12 @@ that nobody has attempted before.
 Android. Autonomous.
 Am soon going to start working on it and would be happy for any collaboration.
 
-**📚 EduScribe**
+**📚 EdScribe**
 Am also planning to build an AI tool that for tackling a critical learning gap
 faced by millions of students across developing nations.
 Currently in design phase. And would also be happy for any support, collaboration or any opportunity to work on it.
 
-**🗺️ StreetPulse**
+**🗺️ GlobStreetPulse**
 Am also planning to build a real-time intelligence system built to help
 governments reduce crime and respond faster
 to critical incidents on the ground.
@@ -76,11 +76,12 @@ Am soon starting on this and would be happy for any collaboration.
 ---
 
 
-## 📚 Currently Learning
+## 📚 Knowledge Experience
 
 - Traditional Machine Learning including Linear regression, logistic regression, Gradient descent e.t.c
 - Artificial Neural Networks (ANN)
-- Convolutional Neural Network 
+- Convolutional Neural Network
+- Planing to continue into indepth LLMs, Agentic, and more deep learning algorithms like GNN, VLM e.t.c after my secondary school.
 
 I also love seeing and understanding ML research papers at my basic lavel especially in LLMs,
 like the Prof. Yann LeCun's paper that transformer are not the true path to AGI.
@@ -95,16 +96,13 @@ It'll be a system that **understands the world**, not just predicts the next tok
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 </div>
 
