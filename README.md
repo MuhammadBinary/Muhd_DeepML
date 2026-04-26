@@ -115,14 +115,12 @@ It'll be a system that **understands the world**, not just predicts the next tok
 ---
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=[MuhammdBinary](https://github.com/MuhammadBinary/Muhd_DeepML)&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-
+  
   <br/><br/>
 
   <p>
-    I have a ton of upcoming ideas and would be happy to get support <br/>
-    or even collaboration.<br/>
+    There isn't a ton of project because of school and some limitation but I have a ton of upcoming ideas<br/>
+    and would be happy for any supportor even collaboration.<br/>
 
   </p>
 
