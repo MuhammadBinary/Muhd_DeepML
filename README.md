@@ -28,10 +28,10 @@
 
 ## ⚡ Who I Am
 
-I'm a self-taught AI/ML developer with two years of learning experience,
-mostly on my phone and sometimes my Dad's PC, with almost no formal guidance.
+I'm a self-taught AI/ML developer with two to three years of learning experience, but started long before that, due to the limitation that i work
+mostly on my phone(2GB of RAM) and sometimes my Dad's PC, with almost no formal guidance.
 
-I love understanding how Machine Learning works and most importantly how Deep learning algorithms work especially in the field of Large language models like transformer e.t.c
+I love understanding how Machine Learning works and most importantly how Deep learning algorithms work, especially in the field of Large language models 🧠 but still a very beginner in it, but i believe with my IDEAs and burning Obsession, furthering my knowledge indepth with opportunity like compute, guidance from team of AI expert, becoming a very good ML scientist 👨‍💻 isn't a hard journey especially that i have experience in it.
 ...
 
 I would also be very happy for any mentorship, internship, project collaboration
@@ -48,7 +48,7 @@ A story of suffering, resilience, and a 92% breakthrough on the final hour. Chec
 
 ---
 
-## 🚀 Active Projects
+## 🚀 Upcoming Projects
 
 **⚙️ PROJECT FORGE**
 I probably have a basic soln to an AI system that can probBLY autonomously self-improve.
@@ -61,12 +61,12 @@ to one of the big areas of debate in AI.      Build begins soon.
 Engineering something with Anthropic's Claude Code
 that nobody has attempted before.
 Android. Autonomous.
-You'll see it when it's done.
+Am soon going to start working on it and would be happy for any collaboration.
 
 **📚 EduScribe**
-An AI tool tackling a critical learning gap
+Am also planning to build an AI tool that for tackling a critical learning gap
 faced by millions of students across developing nations.
-Currently in design phase.
+Currently in design phase. And would also be happy for any support, collaboration or any opportunity to work on it.
 
 **🗺️ StreetPulse**
 Am also planning to build a real-time intelligence system built to help
@@ -79,13 +79,12 @@ Am soon starting on this and would be happy for any collaboration.
 
 ## 📚 Currently Learning
 
-- Large Language Models & Transformers *(understanding what I disagree with)*
-- Graph Neural Networks (GNNs)
-- Agentic AI Systems
+- Traditional Machine Learning including Linear regression, logistic regression, Gradient descent e.t.c
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Network 
 
-I also love seeing and understanding ML research papers especially in LLMs,
-like the Prof. Yann LeCun's paper that pure autoregressive systems
-are not the true path to AGI.
+I also love seeing and understanding ML research papers at my basic lavel especially in LLMs,
+like the Prof. Yann LeCun's paper that transformer are not the true path to AGI.
 
 I believe the AGI we're racing toward won't be an autocomplete engine.
 It'll be a system that **understands the world**, not just predicts the next token. i also love seeing research projects in scientific ML discovery like alpha fold because it always give me a painful feeling of ...
