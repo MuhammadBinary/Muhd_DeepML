@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/Muhd_ML.png" alt="banner" width="80%" height = "400" style="border-radius: 12px;"/>
+  <img src="assets/Muhd_ML.png" alt="banner" width="100%" height = "400" style="border-radius: 12px;"/>
 
   <br/>
   <br/>
@@ -28,16 +28,15 @@
 
 ## ⚡ Who I Am
 
-I'm a 16-year-old self-taught AI/ML developer with two years of learning experience —
-mostly on my dad's PC, no lab, no formal guidance.
+I'm a 16 year old self-taught AI/ML developer with two years of learning experience,
+mostly on my Dad's PC, no lab, no formal guidance.
 
-What separates my learning is that I don't just consume AI tools.
-I go after the math — the intuition behind why algorithms work,
-not just what they produce. That's how I learn. That's how I remember.
+i also like understanding how ML algorithms work intutively
+i.e the intuition behind why algorithms work, because if it's necessary to my passion
+and also love doing it.
 
-I have a deep passion to be part of the people
-who don't just use Machine Learning —
-but **define where it goes.**
+I also would be very happy to for any mentorship, internship, project collaboration
+or job oppotunity.
 
 ---
 
@@ -47,17 +46,19 @@ but **define where it goes.**
 A story of suffering, resilience, and a 92% breakthrough on the final hour.
 > 📖 [Read the full story here](https://www.linkedin.com/posts/muhammad-haruna-232148311_something-unbelievable-happened-last-share-7375943892820570113-pozh?utm_source=share&utm_medium=member_android&rcm=ACoAAE84l0YBYbvbj1FUlPQyXK2HMzplk0WUNxw)
 
+And the code and everything is under the Machine learning folder above
 ---
 
 ## 🚀 Active Projects
 
 **⚙️ PROJECT FORGE**
-I probably have a basic soln to an AI system that can probBLY self-evolution and autonomous self-improvement.
-Architecture is being designed. Build begins soon. This is an idea that i think haven't been done.
+I probably have a basic soln to an AI system that can probBLY autonomously self-improvement.
+the architecture is being designed. This is probably a massive big idea or solution 
+to one of the big areas of debate in AI.      Build begins soon.
 
-*Am about to Collaborating with a Global Huawei AI Competition winner (2023/2024) on this idea.*
+*Collaborating with a Global Huawei AI Competition winner (2023/2024) on this idea.*
 
-**🤫 CLASSIFIED — Powered by Claude Code**
+**🤫 CLASSIFIED = Powered by Claude Code**
 Engineering something with Anthropic's Claude Code
 that nobody has attempted before.
 Android. Autonomous.
@@ -83,12 +84,12 @@ Am soon starting on this and would be happy for any collaboration.
 - Graph Neural Networks (GNNs)
 - Agentic AI Systems
 
-I also love seeing and understanding ML research experiments —
+I also love seeing and understanding ML research experiments,
 especially Prof. Yann LeCun's arguments that pure autoregressive systems
 are not the true path to AGI.
 
 I believe the AGI we're racing toward won't be an autocomplete engine.
-It'll be a system that **understands the world** — not just predicts the next token.
+It'll be a system that **understands the world**, not just predicts the next token.
 
 ---
 
@@ -112,28 +113,25 @@ It'll be a system that **understands the world** — not just predicts the next 
 
 <br/>
 
-**Architectures:** ANN · CNN · RNN · Exploring beyond
-
 ---
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME](https://github.com/MuhammadBinary/Muhd_DeepML)&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="47%"/>
 
   <br/><br/>
 
   <p>
-    I have a ton of upcoming ideas I believe are almost ready to ship —<br/>
-    ideas that could genuinely change things.<br/>
-    <b>Follow the journey.</b>
+    I have a ton of upcoming ideas and would be happy to get support <br/>
+    or even collaboration.<br/>
+
   </p>
 
   <br/>
 
   <em>
-    "I build from Nigeria with a phone and my dad's PC.<br/>
-    Even if it's with a calculator — limitations don't stop the vision."
+    "Even if it's with a calculator. limitations don't stop the vision."
   </em>
 
 </div>
