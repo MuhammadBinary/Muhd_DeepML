@@ -28,7 +28,7 @@
 
 ## ⚡ Who I Am
 
-I'm a 16 year old self-taught AI/ML developer with two years of learning experience,
+I'm a self-taught AI/ML developer with two years of learning experience,
 mostly on my Dad's PC, with almost no formal guidance.
 
 i also like understanding how ML algorithms work intutively
