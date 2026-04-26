@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/Muhd_ML.png" alt="banner" width="100%" height = "400" style="border-radius: 12px;"/>
+  <img src="assets/Muhd_ML.png" alt="banner" width="85%" height = "400" style="border-radius: 12px;"/>
 
   <br/>
   <br/>
