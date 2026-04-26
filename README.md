@@ -31,12 +31,13 @@
 I'm a self-taught AI/ML developer with two years of learning experience,
 mostly on my Dad's PC, with almost no formal guidance.
 
-i also like understanding how ML algorithms work intutively
-i.e the intuition behind why algorithms work, because if it's necessary to my passion
-and also love doing it.
+I love understanding how ML algorithms work intutively
+i.e the maths behind how the algorithms work, because it's necessary to my passion
+and also it give me the feeling of
+...
 
-I also would be very happy to for any mentorship, internship, project collaboration
-or job oppotunity. Please also read about how i started ML on the [My_story_on_ML.md] above
+I would also be very happy to for any mentorship, internship, project collaboration
+or job oppotunity. Please also read about how i started ML on [My_story_on_ML.md] above
 
 
 ---
