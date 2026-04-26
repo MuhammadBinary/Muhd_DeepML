@@ -84,8 +84,8 @@ Am soon starting on this and would be happy for any collaboration.
 - Graph Neural Networks (GNNs)
 - Agentic AI Systems
 
-I also love seeing and understanding ML research experiments,
-especially Prof. Yann LeCun's arguments that pure autoregressive systems
+I also love seeing and understanding ML research papers especially in LLMs,
+like the Prof. Yann LeCun's paper that pure autoregressive systems
 are not the true path to AGI.
 
 I believe the AGI we're racing toward won't be an autocomplete engine.
