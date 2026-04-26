@@ -5,7 +5,7 @@
   <br/>
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Muhammad+Mujahid+Haruna;%F0%9F%94%A5+Obsessed+with+AGI+%26+Problem+Solving;%F0%9F%A7%A0+Self-taught+AI%2FML+Developer+%C2%B7+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;%F0%9F%9A%80+Building+toward+the+Future+of+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF,FF6B35,00FF41,FFD700&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Muhammad+Mujahid+Haruna;%F0%9F%94%A5+Obsessed+with+AGI+%26+Problem+Solving;%F0%9F%A7%A0+Self-taught+AI%2FML+Developer+%C2%B7+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;%F0%9F%9A%80+Building+toward+the+Future+of+Intelligence" alt="Typing SVG" />
 
   <br/>
 
