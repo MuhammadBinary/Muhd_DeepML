@@ -36,9 +36,9 @@ i.e the intuition behind why algorithms work, because if it's necessary to my pa
 and also love doing it.
 
 I also would be very happy to for any mentorship, internship, project collaboration
-or job oppotunity.
+or job oppotunity. Please also read about how i started ML on the [My_story_on_ML.md] above
 
-Please also read about how i started ML on the [My_story_on_ML.md] above
+
 ---
 
 ## 🏆 Experience
