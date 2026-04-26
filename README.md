@@ -31,8 +31,7 @@
 I'm a self-taught AI/ML developer with two years of learning experience,
 mostly on my phone and sometimes my Dad's PC, with almost no formal guidance.
 
-I love understanding how Machine Learning works and most importantly how Deep learning algorithms work especially in the field of Large language models, transformer e.t.c
-i.e the maths behind how the algorithms work, because it always give me the feeling of
+I love understanding how Machine Learning works and most importantly how Deep learning algorithms work especially in the field of Large language models like transformer e.t.c
 ...
 
 I would also be very happy for any mentorship, internship, project collaboration
@@ -89,7 +88,7 @@ like the Prof. Yann LeCun's paper that pure autoregressive systems
 are not the true path to AGI.
 
 I believe the AGI we're racing toward won't be an autocomplete engine.
-It'll be a system that **understands the world**, not just predicts the next token.
+It'll be a system that **understands the world**, not just predicts the next token. i also love seeing research projects in scientific ML discovery like alpha fold because it always give me a painful feeling of ...
 
 ---
 
