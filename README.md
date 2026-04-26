@@ -120,8 +120,8 @@ It'll be a system that **understands the world**, not just predicts the next tok
   <br/><br/>
 
   <p>
-    There isn't a ton of project because of school and some limitation but I have a ton of upcoming ideas<br/>
-    and would be happy for any supportor even collaboration.<br/>
+    There isn't alot of project on this repo, because of school and some limitation.<br/>
+    but I have a ton of upcoming ideas that i didn't mensioned above and would be happy for any support or contribution<br/>
 
   </p>
 
