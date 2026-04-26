@@ -52,7 +52,7 @@ A story of suffering, resilience, and a 92% breakthrough on the final hour. Chec
 ## 🚀 Active Projects
 
 **⚙️ PROJECT FORGE**
-I probably have a basic soln to an AI system that can probBLY autonomously self-improvement.
+I probably have a basic soln to an AI system that can probBLY autonomously self-improve.
 the architecture is being designed. This is probably a massive big idea or solution 
 to one of the big areas of debate in AI.      Build begins soon.
 
