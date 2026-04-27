@@ -110,7 +110,7 @@ It'll be a system that **understands the world**, not just predicts the next tok
 
 ---
 
-## 🎓 Certificates
+## 🎓 Certificates & Learning 
 
 | Certificate / Course | Issuer |
 |-------------|--------|
