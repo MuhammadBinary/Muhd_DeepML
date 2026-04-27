@@ -50,17 +50,15 @@ A story of suffering, resilience, and a 92% breakthrough on the final hour. Chec
 ## 🚀 Upcoming Projects
 
 **⚙️ PROJECT FORGE**
-I am very confident to say that i think i have a foundational architecture in mind for an AI system capable of Autonomously self improve. The architecture is being designed. And i believe this might be a revolutionary idea 💡.
+I am very confident to say that i think i have a foundational architecture in mind for an AI system capable of Autonomously self improve. The architecture is being designed. And i believe this might be a revolutionary idea 💡. Helping to solve one of the biggest areas of debate in AI.
 
-And also one of the biggest areas of debate in AI.      Build begins soon.
-
+  Build begins soon
 *Collaborating with a Global Huawei AI Competition winner (2023/2024) on this idea.*
 
 **🤫 CLASSIFIED = Powered by Claude Code**
 Engineering something with Anthropic's Claude Code
 that nobody has attempted before.
 Android. Autonomous.
-
 Am going to start working on it soon 🔥
 
 **📚 EdScribe**
