@@ -50,10 +50,9 @@ A story of suffering, resilience, and a 92% breakthrough on the final hour. Chec
 ## 🚀 Upcoming Projects
 
 **⚙️ PROJECT FORGE**
-I think am very confident i have a basic solution to an AI system that can  autonomously self-improve.
-the architecture is being designed. This is probably a massive big idea
+I am very confident to say that i think i have a foundational architecture in mind for an AI system capable of Autonomously self improve. The architecture is being designed. And i believe this might be a revolutionary idea 💡.
 
-And also one of the big areas of debate in AI.      Build begins soon.
+And also one of the biggest areas of debate in AI.      Build begins soon.
 
 *Collaborating with a Global Huawei AI Competition winner (2023/2024) on this idea.*
 
@@ -61,19 +60,21 @@ And also one of the big areas of debate in AI.      Build begins soon.
 Engineering something with Anthropic's Claude Code
 that nobody has attempted before.
 Android. Autonomous.
-Am soon going to start working on it and would be happy for any collaboration.
+
+Am going to start working on it soon 🔥
 
 **📚 EdScribe**
 Am also planning to build an AI tool that for tackling a critical learning gap
 faced by millions of students across developing nations.
-Currently in design phase. And would also be happy for any support, collaboration or any opportunity to work on it.
+Currently in design phase.
 
 **🗺️ GlobStreetPulse**
 Am also planning to build a real-time intelligence system built to help
 governments reduce crime and respond faster
 to critical incidents on the ground.
-Am soon starting on this and would be happy for any collaboration.
+Am soon starting this too.
 
+<p><strong>Open to collaboration, mentorship or support on any of the above</strong></p>
 ---
 
 
