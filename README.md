@@ -55,7 +55,7 @@ I am very confident to say that i think i have a foundational architecture in mi
   Build begins soon
 *Collaborating with a Global Huawei AI Competition winner (2023/2024) on this idea.*
 
-**🤫 CLASSIFIED = Powered by Claude Code**
+**🤫 CLASSIFIED = Powered by Claude Code.**
 Engineering something with Anthropic's Claude Code
 that nobody has attempted before.
 Android. Autonomous.
