@@ -110,16 +110,16 @@ It'll be a system that **understands the world**, not just predicts the next tok
 
 ---
 
-## 🎓 Certificates & Learning
+## 🎓 Certificates
 
 | Certificate / Course | Issuer |
 |-------------|--------|
-| Supervised Machine Learning | Coursera — Andrew Ng (DeepLearning.AI) |
-| Machine Learning — Intermediate Python | National Center for AI & Robotics (NCAIR) |
+| Supervised Machine Learning | Coursera - Andrew Ng (DeepLearning.AI) |
+| Machine Learning - Intermediate Python | National Center for AI & Robotics (NCAIR) |
 | Beginner Python | NITDA / NCAIR |
 | Python Essentials | Cisco |
 | Countless Audited Courses | Coursera · edX e.t.c |
-| Endless Hours of Self-Study(Tutorials) | YouTube — 3Blue1Brown · StatQuest e.t.c |
+| Endless Hours of Self-Study(Tutorials) | YouTube - 3Blue1Brown · StatQuest e.t.c |
 
 <div align="center">
   
