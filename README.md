@@ -50,9 +50,10 @@ A story of suffering, resilience, and a 92% breakthrough on the final hour. Chec
 ## 🚀 Upcoming Projects
 
 **⚙️ PROJECT FORGE**
-I probably have a basic soln to an AI system that can probBLY autonomously self-improve.
-the architecture is being designed. This is probably a massive big idea or solution 
-to one of the big areas of debate in AI.      Build begins soon.
+I think am very confident i have a basic solution to an AI system that can  autonomously self-improve.
+the architecture is being designed. This is probably a massive big idea
+
+And also one of the big areas of debate in AI.      Build begins soon.
 
 *Collaborating with a Global Huawei AI Competition winner (2023/2024) on this idea.*
 
