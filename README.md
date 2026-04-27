@@ -110,6 +110,15 @@ It'll be a system that **understands the world**, not just predicts the next tok
 
 ---
 
+## 🎓 Certificates
+
+| Certificate | Issuer |
+|-------------|--------|
+| Machine Learning — Intermediate Python | National Center for AI & Robotics (NCAIR) |
+| Supervised Machine Learning | Coursera — Andrew Ng (DeepLearning.AI) |
+| Beginner Python | NITDA / NCAIR |
+| Python Essentials | Cisco |
+
 <div align="center">
   
   <br/><br/>
