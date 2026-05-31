@@ -1,6 +1,6 @@
 Reflecting on my ML journey and honestly it's emotional 🥹
 
-I got interested in Machine Learning when I was around 12-13 years old. I remember sitting in a class at the Nigerian National Centre for Artificial Intelligence and Robotics, surrounded by adults(most of them graduates) And I didn't understand anything they were teaching. Like nothing. So I would put my head under the table and cry silently 😔 in a room full of grown people with degrees. And I still remember some of the women there laughing at me while they where coming back from the toilet(graduates).
+I got interested in Machine Learning when I was around 12-13 years old. I remember sitting in a class at the Nigerian National Centre for Artificial Intelligence and Robotics, surrounded by adults(most of them graduates) And I didn't understand anything they were teaching. Like nothing. So I would put my head under the table, full of frustration and almost crying 😔. Althur all of them seating their where graduates but its painful being tortured by something you loved. And I still remember some of the women there laughing at me while they where coming back from the toilet(graduates).
 
 But I still didn't give up.
 
@@ -11,3 +11,5 @@ I also took a Mathematics for ML course on edX, things like calculus, limits, di
 Today I watched a video and one question just hit me:
 
 💭 "Imagine if you gave up back then?"
+
+Althur am currently still a beginner due to some limitations i faced but am not givig up until i reach that destination.
